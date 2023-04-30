@@ -1,6 +1,6 @@
-# Out-of-distribution Detection via Frequency-regularized Generative Models
+# Out-of-distribution Detection via Frequency-regularized Generative Models [WACV 2023 **Highlight** ]
 
-This is the source code for our WACV 2023 paper [Out-of-distribution Detection via Frequency-regularized Generative Models](https://arxiv.org/abs/2208.09083)
+This is the source code for our WACV 2023 **Highlight** paper [Out-of-distribution Detection via Frequency-regularized Generative Models](https://arxiv.org/abs/2208.09083)
 by Mu Cai, and Yixuan Li. The main idea and code are **heavily borrowed from** [Frequency Domain Image Translation: More Photo-realistic, Better Identity-preserving](https://github.com/mu-cai/frequency-domain-image-translation/). 
 
 <div align="center">
