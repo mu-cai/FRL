@@ -71,7 +71,6 @@ Alternatively, you can download a pretrained checkpoint [here](https://drive.goo
 To evaluate the AUROC, use the following command:
 
 ```
-cd train_VAE
 python compute_AUROC.py
 ```
 
