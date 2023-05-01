@@ -78,7 +78,7 @@ You will get the average AUROC of 0.908 on all of the OOD datasets.
 
 
 
-Code is modified from [Frequency Domain Image Translation: More Photo-realistic, Better Identity-preserving](https://github.com/mu-cai/frequency-domain-image-translation/)m [Likelihood Regret](https://github.com/XavierXiao/Likelihood-Regret), and
+Code is modified from [Frequency Domain Image Translation: More Photo-realistic, Better Identity-preserving](https://github.com/mu-cai/frequency-domain-image-translation/), [Likelihood Regret](https://github.com/XavierXiao/Likelihood-Regret), and
 [ROSE](https://github.com/shinypond/ood_detection).
 
 
